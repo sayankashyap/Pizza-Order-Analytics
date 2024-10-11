@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-The **Pizza Order Analytics** project aims to analyze and manage data related to pizza orders, ingredients, customers, and transactions using SQL Workbench. This project provides insights into order trends, customer preferences, and business performance through various SQL queries and data operations.
+The **Pizza Order Analytics** project aims to analyze and manage data related to pizza orders, ingredients, customers, and transactions using SQL Workbench. This project provides insights into order trends, customer preferences and business performance through various SQL queries and data operations.
 
 ## Features
 
